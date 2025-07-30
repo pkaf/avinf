@@ -45,8 +45,8 @@ print(av_fit.summary())
 ```
 
 ## References
-1. G’Sell, M., & Wager, S. (2022). *Anytime-Valid Linear Models and Regression Adjusted Casual Inference in Randomized Experiments*. arXiv preprint arXiv:2210.08589. https://arxiv.org/pdf/2210.08589
+1. Lindon, Ham, Tingley and Bojinov (2025). *Anytime-Valid Linear Models and Regression Adjusted Casual Inference in Randomized Experiments*. arXiv preprint arXiv:2210.08589. https://arxiv.org/pdf/2210.08589
 
-2. It also draws inspiration from the R package by Michael Lindon (2025) version 0.1.0. https://cran.r-project.org/web/packages/avlm/
+2. It also draws inspiration from the R package by the authors (version 0.1.0.) https://cran.r-project.org/web/packages/avlm/
 
 If you use avinf in your work, please cite the paper and the package(s) appropriately.

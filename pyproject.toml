@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "avinf"
 version = "0.1.0"
-description = "Anytime-Valid Inference python package for Casual Inference in Randomized Experiments"
+description = "Anytime-Valid Inference python package for Casual Inference in Randomized Experiments by Lindon, Ham, Tingley and Bojinov (2025)."
 authors = ["Prajwal Kafle <prrajkafle@gmail.com>"]
 license = "MIT"
 readme = "README.md"
